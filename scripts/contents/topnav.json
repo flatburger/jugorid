@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Kegiatan",
+		"link": "javascript:",
+		"target": "#event"
+	},
+	{
+		"name": "Komunitas",
+		"link": "javascript:",
+		"target": "#forum"
+	},
+	{
+		"name": "Masuk/Daftar",
+		"link": "#/login"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
