@@ -4,6 +4,11 @@
 		"link": "#/"
 	},
 	{
+		"name": "JUG Indonesia",
+		"link": "javascript:",
+		"target": "#jug"
+	},
+	{
 		"name": "Kegiatan",
 		"link": "javascript:",
 		"target": "#event"
@@ -12,10 +17,6 @@
 		"name": "Komunitas",
 		"link": "javascript:",
 		"target": "#forum"
-	},
-	{
-		"name": "Masuk/Daftar",
-		"link": "#/login"
 	},
 	{
 		"name": "Hubungi Kami",
