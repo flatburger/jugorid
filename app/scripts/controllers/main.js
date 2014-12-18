@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'JUG Indonesia',
     			'description': 'Komunitas pengembang dengan Java terbaik di negara ini, bergabunglah, rasakan ke dahsyatannya',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-pen',
                 'link': '#jug'
     		},
     		{
